@@ -1,0 +1,172 @@
+{
+	"camisetas":[
+		{
+			"tipo": "manga corta",
+			"marca": "Mike",
+			"tallas":[
+				{
+					"talla": "S"
+				},
+
+				{
+					"talla": "M"
+				},
+
+				{
+					"talla": "L"
+				}
+			]
+		},
+
+		{
+			"tipo": "manga larga",
+			"marca": "Addidas",
+			"tallas":[
+				{
+					"talla": "M"
+				},
+
+				{
+					"talla": "L"
+				}
+			]
+
+		},
+
+		{
+			"tipo": "sin mangas",
+			"marca": "Gordan",
+			"tallas":[
+				{
+					"talla": "M"
+				},
+
+				{
+					"talla": "L"
+				},
+
+				{
+					"talla": "XL"
+				}
+			]
+		}
+
+	],
+
+	"pantalones":[
+		{
+			"tipo": "cortos",
+			"marca": "Gordan",
+			"tallas":[
+				{
+					"talla": "S"
+				},
+
+				{
+					"talla": "M"
+				},
+
+				{
+					"talla": "XL"
+				}
+			]
+		},
+
+		{
+			"tipo": "cortos",
+			"marca": "Mike",
+			"tallas":[
+				{
+					"talla": "S"
+				},
+
+				{
+					"talla": "M"
+				}
+			]
+
+		},
+
+		{
+			"tipo": "largos",
+			"marca": "Addidas",
+			"tallas":[
+				{
+					"talla": "M"
+				},
+
+				{
+					"talla": "XL"
+				}
+			]
+		}
+
+	],
+
+	"zapatillas":[
+		{
+			"tipo": "Baloncesto",
+			"marca": "Gordan",
+			"tallas":[
+				{
+					"talla": 41
+				},
+
+				{
+					"talla": 43
+				},
+
+				{
+					"talla": 45
+				}
+			]
+		},
+
+		{
+			"tipo": "Futbol",
+			"marca": "Messirve",
+			"tallas":[
+				{
+					"talla": 40
+				},
+
+				{
+					"talla": 41
+				},
+				{
+					"talla": 42
+				}
+			]
+
+		},
+
+		{
+			"tipo": "Baloncesto",
+			"marca": "Mike",
+			"tallas":[
+				{
+					"talla": 44
+				},
+
+				{
+					"talla": 45
+				},
+
+				{
+					"talla": 46
+				}
+			]
+		}
+
+	],
+
+	"datos":{
+		"nombre": "Sport shop",
+		"ubicacion": "Mérida",
+		"nombreDueño": "Jony Melavo",
+		"email": "eseJony@gmail.com"
+	}
+
+
+
+}
